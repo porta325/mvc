@@ -1,4 +1,3 @@
-//Redirect everything through index.php
 <IfModule mod_rewrite.c>
   Options -Multiviews
   RewriteEngine On
